@@ -14,6 +14,10 @@ Then, they concatenate these maps and give them as input to the encoder to predi
 freedom of the rigid registration. See figure 1.
 ![FVR](https://user-images.githubusercontent.com/52508554/199548140-94fd122e-9a76-4674-8042-5f0112f841c3.png)
 
+# Running The Code
+To train the model type: python main.py
+To test the model type: python test.py
+
 # References:
 Hengtao Guo et al. “End-to-end ultrasound frame to volume registration”. In: International Conference
 on Medical Image Computing and Computer-Assisted Intervention. Springer. 2021, pp. 56–65.
