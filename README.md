@@ -13,3 +13,7 @@ problem of dimensions mismatch, first, they extract feature maps from the 2D ima
 Then, they concatenate these maps and give them as input to the encoder to predict the six degrees of
 freedom of the rigid registration. See figure 1.
 ![FVR](https://user-images.githubusercontent.com/52508554/199548140-94fd122e-9a76-4674-8042-5f0112f841c3.png)
+
+# References:
+Hengtao Guo et al. “End-to-end ultrasound frame to volume registration”. In: International Conference
+on Medical Image Computing and Computer-Assisted Intervention. Springer. 2021, pp. 56–65.
